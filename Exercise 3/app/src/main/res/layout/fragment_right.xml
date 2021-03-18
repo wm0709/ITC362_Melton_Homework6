@@ -24,9 +24,6 @@
         android:background="@color/yellow"
         android:textSize="20sp"/>
 
-
-
-
     <TextView
         android:id="@+id/greenTV"
         android:layout_width="150dp"
